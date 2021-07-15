@@ -1,1 +1,1 @@
-# analyzed data will go in this directory
+# Raw(original) data will go in this directory
