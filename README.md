@@ -16,9 +16,8 @@ Our dataset concerns opioid- and stimulant-related harms in Canada, and has been
 
 ## Team Members
 
-- Rhys Herzberg: I grew up in mountains AND prairies and love both!
-- Person 2: one sentence about you!
-- Person 3: one sentence about you!
+- Rhys Herzberg: I'm in my final year of Electrical Engineering! I grew up in mountains AND prairies and love both! I like camping/reading/hiking.
+- My name is Shalini Thiru and I am a 4th year Environmental Science major. I enjoy learning about how environmental factors can be determinants of health. In my spare time I love to go on hikes and jam out
 
 ## References
 
