@@ -8,11 +8,11 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 
 ## Describe your topic/interest in about 150-200 words
 
-The topic for this project is opioid and stimulant use. The opioid epidemic is an ongoing crisis in Canada, and many Canadians are affected by it - some because of personal use/experience, and others through the wellbeing of family and friends. Gleaning trends and patterns from raw data has the potential to illuminate risk factors for opioid- and stimulant-related harms. By understanding this issue better, we can inform our research and treatment decisions in the future.
+This project will deal with opioid- and stimulant-related harm. As this is a sensitive subject, discretion is advised. The opioid epidemic is especially poignant in Western Canada (Alberta, Saskatchewan, and BC), where there are more opioid poisonings per 100 000 than anywhere else in the country. The opioid epidemic affects marginalised communities disproportionately, but other risk factors can be identified using the selected data. 2020 was the deadliest year yet in British Columbia, with 1716 deaths (an average of 5 per day). We will be reviewing the characteristics of opioid- and stimulant-related harm as recorded in the dataset, looking in particular at risk factors like age, region, and type of substance used.
 
 ## Describe your dataset in about 150-200 words
 
-Our dataset was collected from the government of Canada, which has many open source datasets. We are using raw data in a .csv file. The information is sourced primarily from hospitalizations, deaths, and emergency services records. The data collected includes demographic information (age, sex, region, etc.) and information about the substance use/harm (medical treatment sought, polysubstance use, etc.). There is information regarding intentional/accidental substance use as well.
+Our dataset concerns opioid- and stimulant-related harms in Canada, and has been amassed from hospitalisation, death, and medical emergency services records. The federal dataset consists of records from the provincial and territorial offices of Chief Medical Examiners and Chief Coroners. The Canadian Institute of Health Information collected the information provided by provinces and territories and provided the data used for reporting opioid- and stimulant-related poisonings and hospitalizations. The data spans a period of several years (January 1st, 2016 - May 11th, 2021). The dataset includes demographic information for patients affected by opioid- and stimulant-related harms (i.e. age, sex, region) and information about the harm itself (i.e. did the patient require hospitalisation, was there a toxicity death, etc.)
 
 ## Team Members
 
@@ -22,5 +22,5 @@ Our dataset was collected from the government of Canada, which has many open sou
 
 ## References
 
-{Add your stuff here}
+Special Advisory Committee on the Epidemic of Opioid Overdoses. Opioid- and Stimulant-related Harms in Canada. Ottawa: Public Health Agency of Canada; June 2021. https://health-infobase.canada.ca/substance-related-harms/opioids-stimulants
 
