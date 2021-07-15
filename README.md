@@ -1,6 +1,4 @@
-# Group 13 - Demographic Analysis of Opioid- and Stimulant-related Harms
-
-- Your title can change over time.
+# Group 13: Demographic Analysis of Opioid- and Stimulant-related Harms
 
 ## Milestones
 
@@ -17,7 +15,7 @@ Our dataset concerns opioid- and stimulant-related harms in Canada, and has been
 ## Team Members
 
 - Rhys Herzberg: I'm in my final year of Electrical Engineering! I grew up in mountains AND prairies and love both! I like camping/reading/hiking.
-- My name is Shalini Thiru and I am a 4th year Environmental Science major. I enjoy learning about how environmental factors can be determinants of health. In my spare time I love to go on hikes and jam out
+- Shalini Thiru: I am a 4th year Environmental Science major. I enjoy learning about how environmental factors can be determinants of health. In my spare time I love to go on hikes and jam out.
 
 ## References
 
