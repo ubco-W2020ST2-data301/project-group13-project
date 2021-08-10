@@ -15,7 +15,7 @@ drop these and focus on our own aggregates/processing
 def load_process_data(path_to_file):
     
     # Load Data into df1
-    df1 = (
+    df3 = (
         pd.read_csv(path_to_file) #load data
         .dropna(axis=1,how='all') #drop columns with all NaN values
         .dropna(subset=['Substance','Source', 'Type_Event','Specific_Measure','Region','Unit','Value']) #drop rows with missing pertinent values
@@ -39,25 +39,22 @@ def load_process_data(path_to_file):
         "Intentional stimulant-related poisoning hospitalizations":12
     }
     substance_key = {"Opioids":1,"Stimulants":2}
+    source_reassign = {
+        "Deaths" : 1,
+        "Hospitalizations": 2,
+        "Emergency Medical Services (EMS)":3
+    }
     
     # drop columns, reassign
-    df2 = ( df1 
+    df4 = ( df3 
             .drop(drop_list,1)
     )
     
-    df2['Event Category'] = df2['Type of Event'].apply(lambda x: event_reassign[x])
-    df2['Substance'] = df2['Substance'].apply(lambda x: substance_key[x])
+    df4['Event Category'] = df4['Type of Event'].apply(lambda x: event_reassign[x])
+    df4['Substance'] = df4['Substance'].apply(lambda x: substance_key[x])
+    df4['Source_number'] = df4['Source'].apply(lambda x: source_reassign[x])
+    
     return df2
 
+
 # initial thoughts: Type of Event is highly correlated with Source and Substance
-
-df2 = load_process_data('../../data/raw/SubstanceHarmsData.csv')
-# checking unique events
-#list_ = pd.unique(df2['Type of Event'])
-#print(list_)
-
-#checking df2 information
-#print(df2.tail(15))
-#df2_profile = ProfileReport(df2).to_notebook_iframe()
-
-
