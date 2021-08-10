@@ -68,7 +68,7 @@ def load_process_rdata(path_to_file):
     df4['Substance'] = df4['Substance'].apply(lambda x: substance_key[x])
     df4['Source_number'] = df4['Source'].apply(lambda x: source_reassign[x])
     
-    return df2
+    return df4
 # Make sure to return the latest dataframe
     
     
