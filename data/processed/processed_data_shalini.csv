@@ -1,0 +1,12 @@
+index,Substance,Source,Type_Event,Region,Latitude,Lonigutde,Time_Period,Year_Quarter,Disaggregator,Unit,Value,Region_Cnt,Year,Year_Cnt
+4,Opioids,Deaths,Total apparent opioid toxicity deaths,British Columbia,53.7267,-127.6476,By year,2020,,Number,1738,1738,2016,2825
+9,Opioids,Deaths,Total apparent opioid toxicity deaths,Alberta,53.9333,-116.5765,By year,2020,,Number,1144,1144,2017,3916
+14,Opioids,Deaths,Total apparent opioid toxicity deaths,Saskatchewan,52.9399,-106.4509,By year,2020,,Number,230,230,2018,4389
+23,Opioids,Deaths,Total apparent opioid toxicity deaths,Ontario,51.2538,-85.3232,By year,2020,,Number,2425,2425,2019,3830
+28,Opioids,Deaths,Total apparent opioid toxicity deaths,Quebec,52.9399,-73.5491,By year,2020,,Number,547,547,2020,6214
+33,Opioids,Deaths,Total apparent opioid toxicity deaths,New Brunswick,46.5653,-66.4619,By year,2020,,Number,38,38,,
+38,Opioids,Deaths,Total apparent opioid toxicity deaths,Nova Scotia,44.682,-63.7443,By year,2020,,Number,51,51,,
+43,Opioids,Deaths,Total apparent opioid toxicity deaths,Prince Edward Island,46.5107,-63.4168,By year,2020,,Number,8,8,,
+48,Opioids,Deaths,Total apparent opioid toxicity deaths,Newfoundland and Labrador,53.1355,-57.6604,By year,2020,,Number,24,24,,
+53,Opioids,Deaths,Total apparent opioid toxicity deaths,Yukon,64.2823,-135,By year,2020,,Number,6,6,,
+58,Opioids,Deaths,Total apparent opioid toxicity deaths,Northwest Territories,64.8255,-124.8457,By year,2020,,Number,3,3,,
