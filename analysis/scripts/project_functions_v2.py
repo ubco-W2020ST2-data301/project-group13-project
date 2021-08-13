@@ -65,8 +65,8 @@ def load_process_rdata(path_to_file):
     )
     
     df4['Event Category'] = df4['Type of Event'].apply(lambda x: event_reassign[x])
-    df4['Substance'] = df4['Substance'].apply(lambda x: substance_key[x])
-    df4['Source_number'] = df4['Source'].apply(lambda x: source_reassign[x])
+    df4['Substance_num'] = df4['Substance'].apply(lambda x: substance_key[x])
+    df4['Source_num'] = df4['Source'].apply(lambda x: source_reassign[x])
     
     return df4
 # Make sure to return the latest dataframe
