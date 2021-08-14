@@ -17,6 +17,9 @@ Our dataset concerns opioid- and stimulant-related harms in Canada, and has been
 - Rhys Herzberg: I'm in my final year of Electrical Engineering! I grew up in mountains AND prairies and love both! I like camping/reading/hiking.
 - Shalini Thiru: I am a 4th year Environmental Science major. I enjoy learning about how environmental factors can be determinants of health. In my spare time I love to go on hikes and jam out.
 
+## Video Link
+The link to the explainer video for Group 13 (Shalini Thiru and Rhys Herzberg) is [here](https://www.youtube.com/watch?v=y9aYn5tIgWI)
+
 ## References
 
 Special Advisory Committee on the Epidemic of Opioid Overdoses. Opioid- and Stimulant-related Harms in Canada. Ottawa: Public Health Agency of Canada; June 2021. https://health-infobase.canada.ca/substance-related-harms/opioids-stimulants
